@@ -2,22 +2,6 @@
 RESUMEN
 # # Cálculo Actuarial II
 
-## Objetivo
-Repositorio del curso de Cálculo Actuarial II.
-
-## Entorno
-python -m venv .venv
-python -m pip install -r requirements.txt
-
-## Estructura
-- data/: fuentes y datos procesados
-- notebooks/: análisis explicados
-- src/: funciones reutilizables
-- tests/: validaciones automáticas
-
-## Fuentes
-Registrar aquí institucion, producto, anio, URL y fecha de descarga.
-
 ---
 
 # Resumen: Cálculo Actuarial II - Unidad I
